@@ -171,7 +171,7 @@ RetailPulse/
 
 ## 👤 Author & Acknowledgments
 
-- **Author:** Sanket Sutar ([@sanketsutar09](https://github.com/sanketsutar09))
+- **Author:** Sujal Tharkar ((@sujaltharkar))
 - **Program:** Internship Project at **Zidio Development**
 - **Domain:** Retail Business Intelligence, Data Analysis, & Performance Engineering
 
